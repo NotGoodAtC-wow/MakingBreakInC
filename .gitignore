@@ -1,0 +1,13 @@
+.idea/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.log
